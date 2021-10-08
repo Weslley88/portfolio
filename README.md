@@ -1,4 +1,4 @@
-# portifolio
+# portfolio
 
 Meu portifolio de Desenvolvedor Front End
 
